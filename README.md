@@ -1,0 +1,2 @@
+#   Python demo for Short Text Automatic Classification based on Improved Rocchio Algorithm
+Use the improved Rocchio algorithm to classify three test documents into the set of news of Democratic Party or into the set of news of Trump. The three test documents are all news about Trump. As a result, the expect outcomes are “doc belongs to Trump”. Use Python to implement the improved Rocchio algorithm. 
